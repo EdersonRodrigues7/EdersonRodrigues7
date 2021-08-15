@@ -1,9 +1,10 @@
 ### Hi there 👋
-🔁 Project Manager @Trilhante;
-📚 Currently studying Front End development and UI/UX;
-👩🏾‍💻 Fascinated by technology, inovation and design;
-
-<a href="ederson.rodrigues777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+<ul>
+<li> 🔁 Project Manager @Trilhante;</li>
+<li> 📚 Currently studying Front End development and UI/UX;</li>
+<li> 👩🏾‍💻 Fascinated by technology, inovation and design;</li>
+</ul>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/><p>ederson.rodrigues777@gmail.com</p>
 <!--
 ### Languages and Tools 🧰
 -
