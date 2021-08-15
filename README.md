@@ -12,6 +12,7 @@
 <li>📧 ederson.rodrigues777@gmail.com</li>
 <li>📲 +55 (19) 99620-5912</li>
 </ul>
+
 ### Languages and Tools 🧰
 <ul>
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
