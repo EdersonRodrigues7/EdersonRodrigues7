@@ -1,7 +1,7 @@
 ### 🙋🏾‍♂️ About me 
 <ul>
   <li> 🔁 Project Manager @Trilhante;</li>
-  <li> 📚 Currently studying Front End development and UI/UX;</li>
+  <li> 📚 Cloud Computing 1/4</li>
   <li> 👩🏾‍💻 Fascinated by technology, inovation and design;</li>
 </ul>
 
