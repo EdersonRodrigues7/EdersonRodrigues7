@@ -1,7 +1,7 @@
 ### 🙋🏾‍♂️ About me 
 <ul>
   <li> 🔁 Project Manager and Jr. Web Developer @Trilhante;</li>
-  <li> 📚 Cloud Computing 2/5</li>
+  <li> 📚 System Analysis and Development 2/5</li>
   <li> 👩🏾‍💻 Fascinated by technology, inovation and design;</li>
 </ul>
 
