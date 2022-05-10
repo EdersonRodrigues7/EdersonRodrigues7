@@ -1,3 +1,4 @@
+Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
 ### 🙋🏾‍♂️ About me 
 <ul>
   <li> 🔁 Project Manager and Jr. Web Developer @Trilhante;</li>
@@ -43,6 +44,13 @@
   <li><a href="https://app.rocketseat.com.br/me/ederson-rodrigues-06888">🚀 RocketSeat Profile<a/></li>
   <li><a href="https://web.digitalinnovation.one/users/ederson_rodrigues?tab=achievements">📙 Digital Innovation Achievements<a/></li>
 </ul>
+
+### Stats
+<div>
+<a href="https://github.com/EdersonRodrigues7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdersonRodrigues7&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdersonRodrigues7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 
 -->
