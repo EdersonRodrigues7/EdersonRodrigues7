@@ -1,9 +1,9 @@
 Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
 ### 🙋🏾‍♂️ About me 
 <ul>
-  <li> 🔁 Project Manager and Jr. Web Developer @Trilhante;</li>
+  <li> 🔁 Jr. Web Developer @Trilhante</li>
   <li> 📚 System Analysis and Development 2/5</li>
-  <li> 👩🏾‍💻 Fascinated by technology, inovation and design;</li>
+  <li> 👩🏾‍💻 Fascinated by technology, inovation and design</li>
 </ul>
 
 ### ☎️ Contacts
@@ -24,8 +24,15 @@ Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
   <li>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </li>
-  <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
+  <li>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white"/>
+  </li>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
+  <li><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/></li>
   <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></li>
@@ -33,8 +40,10 @@ Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
 
 ### ⏰ Currently Studying... 
 <ul>
-  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
-  <li><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></li>
+  <li>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </li>
   <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
 </ul>
 
