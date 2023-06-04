@@ -48,13 +48,6 @@ Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
   <li><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></li>
 </ul>
 
-### Certificates and other profiles
-<ul>
-  <li><a href="https://drive.google.com/drive/folders/1gT2ou5wGL7jv4oOXOgPPUQqGZT6RLC-W?usp=sharing">📁 Google Drive folder with certificates<a/></li>
-  <li><a href="https://app.rocketseat.com.br/me/ederson-rodrigues-06888">🚀 RocketSeat Profile<a/></li>
-  <li><a href="https://web.digitalinnovation.one/users/ederson_rodrigues?tab=achievements">📙 Digital Innovation Achievements<a/></li>
-</ul>
-
 ### Stats
 <div>
   <a href="https://github.com/EdersonRodrigues7">
