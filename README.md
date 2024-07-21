@@ -1,9 +1,9 @@
 Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
 ### 🙋🏾‍♂️ About me 
 <ul>
-  <li> 🔁 Jr. Web Developer @Trilhante</li>
-  <li> 📚 System Analysis and Development 2/5</li>
-  <li> 👩🏾‍💻 Fascinated by technology, inovation and design</li>
+  <li> 🔁 Software Developer @Agroboard</li>
+  <li> 🧑🏾‍🎓 Graduated in System Analysis and Development at Faculdade Descomplica</li>
+  <li> 👩🏾‍💻 Fascinated by technology, innovation and different cultures</li>
 </ul>
 
 ### ☎️ Contacts
