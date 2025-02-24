@@ -1,7 +1,7 @@
 Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
 ### 🙋🏾‍♂️ About me 
 <ul>
-  <li> 🔁 Software Developer @Agroboard</li>
+  <li> 🔁 Software Developer</li>
   <li> 🧑🏾‍🎓 Graduated in System Analysis and Development at Faculdade Descomplica</li>
   <li> 👩🏾‍💻 Fascinated by technology, innovation and different cultures</li>
 </ul>
@@ -46,17 +46,7 @@ Hi there! I'm Ederson Rodrigues, welcome to my Github page 😃
   <li> 🛠️ API development and maintenance</li>
   <li> 🗃️ Database modeling and improvement</li>
   <li> 📲 Data Management</li>
-</ul>
-
-### 📚 Currently Studying 
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>   
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  </li>
+  <li> 🏗️ Software Architecture</li>
 </ul>
 
 ### 📊 Stats
